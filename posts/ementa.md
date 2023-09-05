@@ -16,7 +16,7 @@ index: false
 
 **DOCENTE:** Leandro Costa Souza
 
-**PERÍODO LETIVO:** 2022.2
+**PERÍODO LETIVO:** 2023.2
 
 **Código Disciplina:** PRG05 - Programação Web
 
