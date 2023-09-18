@@ -50,14 +50,14 @@ index: false
 - Arquitetura Web.
 - Características das Aplicações Web.
 - Programação no Cliente.
+  - FrameWorks Front-End
   - ​HTML, CSS, JavaScript
   - Responsividade
-  - FrameWorks Front-End
 - Programação no Servidor.
-  - ​Request, Response e Session
   - Frameworks Back-End.
-  - Programação reativa 
+  - ​Request, Response e Session
   - Injeção de dependências
+  - Programação reativa 
   - Persistência de dados.
     - ORM 
 
