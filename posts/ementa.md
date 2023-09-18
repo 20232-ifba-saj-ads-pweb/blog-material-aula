@@ -55,10 +55,11 @@ index: false
   - FrameWorks Front-End
 - Programação no Servidor.
   - ​Request, Response e Session
+  - Frameworks Back-End.
+  - Programação reativa 
   - Injeção de dependências
   - Persistência de dados.
     - ORM 
-  - Frameworks Back-End.
 
 ## Metodologia
 
