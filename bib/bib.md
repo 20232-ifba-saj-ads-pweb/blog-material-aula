@@ -43,4 +43,5 @@
 
 [^redhat]: REST x SOAP [https://www.redhat.com/pt-br/topics/integration/whats-the-difference-between-soap-rest](https://www.redhat.com/pt-br/topics/integration/whats-the-difference-between-soap-rest). (Acessado em 03/02/2023) 
 
+[^wireframe]: Wireframe [https://pt.wikipedia.org/wiki/Website_wireframe](https://pt.wikipedia.org/wiki/Website_wireframe)
 
