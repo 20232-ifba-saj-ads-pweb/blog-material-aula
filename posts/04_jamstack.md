@@ -125,3 +125,8 @@ Mesmo que você não esteja criando um site que combina perfeitamente com a arqu
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Xqaa2zgdWWo?si=NbLbBj7uEZ5do6b7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+## Referências
+
+<!-- @include: ../bib/bib.md -->

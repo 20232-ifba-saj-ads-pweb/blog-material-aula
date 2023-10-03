@@ -95,5 +95,4 @@ A base instalada de computadores no Brasil atinge 40 milhões, de acordo com pes
 
 ## Referências
 
-@include(../bib/bib.md)
-
+<!-- @include: ../bib/bib.md -->
