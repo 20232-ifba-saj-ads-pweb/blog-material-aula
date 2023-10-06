@@ -45,3 +45,16 @@
 
 [^wireframe]: Wireframe [https://pt.wikipedia.org/wiki/Website_wireframe](https://pt.wikipedia.org/wiki/Website_wireframe)
 
+
+[^flexbox_nav]: Criar um menu de navegação com o Flexbox [https://ostraining.com/blog/webdesign/create-navmenu-with-flexbox/](https://ostraining.com/blog/webdesign/create-navmenu-with-flexbox/)
+
+
+[^w3css]: W3CSS - [https://www.w3schools.com/w3css/defaulT.asp](https://www.w3schools.com/w3css/defaulT.asp)
+
+[^getmdl]: GETMDL [https://getmdl.io/](https://getmdl.io/)
+
+[^getbootstrap]: GETBOOTSTRAP [https://getbootstrap.com/](https://getbootstrap.com/)
+
+[^bulma]: BULMA [https://bulma.io/](https://bulma.io/)
+
+[^tailwindcss]: TAILWINDCSS [https://tailwindcss.com/](https://tailwindcss.com/)

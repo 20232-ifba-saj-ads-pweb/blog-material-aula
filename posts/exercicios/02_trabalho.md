@@ -48,3 +48,8 @@ Alguns das funcionalidades previstas em uma analise prelimiar:
 - O cliente poder ver a fila de atendimento dos seus pedidos
 - O dono do estabelecimento abrir/criar comandas e lançar produtos/pedidos para clientes
 - rateio da comanda com possibilidade de divisões de produtos (fator de rateio)
+
+
+## Link tarefa Wireframe
+
+[https://classroom.github.com/a/w_Y3CyyD](https://classroom.github.com/a/w_Y3CyyD)

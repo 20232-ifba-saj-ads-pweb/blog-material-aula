@@ -2,7 +2,7 @@
 icon: edit
 date: 2023-09-12 18:30:00.00 -3
 category:
-  - Aula
+  - aula
 tag:
   - jamstack
 order: 4
