@@ -49,6 +49,15 @@ Alguns das funcionalidades previstas em uma analise prelimiar:
 - O dono do estabelecimento abrir/criar comandas e lançar produtos/pedidos para clientes
 - rateio da comanda com possibilidade de divisões de produtos (fator de rateio)
 
+## Cenário mínimo
+
+- Cliente entra em estabelicimento e ler QRCode
+- Cliente realiza cadastro do app
+- Cliente é levado a tela do estabelecimento
+- Cliente ler código de barras de produto
+- Produto é inserido na comanda
+- Cliente paga comanda e sai do estabelecimento
+
 
 ## Link tarefa Wireframe
 
