@@ -32,7 +32,7 @@ order: 11
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QrN1WI87xu8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-https://gitpod.io/#https://github.com/vaadin/skeleton-starter-flow-spring/tree/v23
+https://gitpod.io/#https://github.com/vaadin/skeleton-starter-flow-spring/tree/v24
 
 
 
