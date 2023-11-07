@@ -54,7 +54,7 @@ O elemento HTML `<input>` é o elemento de formulário mais usado.
 Um elemento `<input>` pode ser exibido de várias maneiras, dependendo do type atributo.
 
 aqui estão alguns exemplos:
-
+  
 
 
 |Tipo|	Descrição|
