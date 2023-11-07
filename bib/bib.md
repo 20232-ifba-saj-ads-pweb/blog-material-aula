@@ -58,3 +58,6 @@
 [^bulma]: BULMA [https://bulma.io/](https://bulma.io/)
 
 [^tailwindcss]: TAILWINDCSS [https://tailwindcss.com/](https://tailwindcss.com/)
+
+[^w3schools_from]: w3schools FORM [https://www.w3schools.com/html/html_forms.asp](https://www.w3schools.com/html/html_forms.asp)
+
