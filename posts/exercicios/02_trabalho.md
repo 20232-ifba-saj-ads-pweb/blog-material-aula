@@ -62,3 +62,6 @@ Alguns das funcionalidades previstas em uma analise prelimiar:
 ## Link tarefa Wireframe
 
 [https://classroom.github.com/a/w_Y3CyyD](https://classroom.github.com/a/w_Y3CyyD)
+
+## Link tarefa do Projeto
+[https://classroom.github.com/a/fu79W_3U](https://classroom.github.com/a/fu79W_3U)
