@@ -64,4 +64,10 @@ Alguns das funcionalidades previstas em uma analise prelimiar:
 [https://classroom.github.com/a/w_Y3CyyD](https://classroom.github.com/a/w_Y3CyyD)
 
 ## Link tarefa do Projeto
+
 [https://classroom.github.com/a/fu79W_3U](https://classroom.github.com/a/fu79W_3U)
+
+## Link tarefa da camada de modelo
+
+[https://classroom.github.com/a/x4XjD8vp](https://classroom.github.com/a/x4XjD8vp)
+
